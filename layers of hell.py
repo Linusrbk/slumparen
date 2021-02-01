@@ -11,7 +11,7 @@ loh=[
     'Ninth layer:Treachery',
     'Tenth layer:Heaven'#Heaven is a part of hell cause we can't have nice things.
 ]
-loha=0
+
 #loha=random.randint(0,len(loh)-1)
 dag= 0 
 dagar = ["Måndag", "Tisdag", "Onsdag", "Torsdag", "Fredag", "Lördag", "Söndag"]
